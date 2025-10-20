@@ -15,4 +15,6 @@ Tech Stack
 - Pandas, NumPy
 
 - ![Alt Text](image1.png)
+- ![Alt Text](image2.png)
+- ![Alt Text](image3.png)
 
