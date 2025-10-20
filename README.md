@@ -13,3 +13,6 @@ Tech Stack
 - Streamlit
 - Scikit-learn
 - Pandas, NumPy
+
+- ![Alt Text](image1.png)
+
